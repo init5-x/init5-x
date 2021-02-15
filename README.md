@@ -1,1 +1,1 @@
-![head.png](https://i.imgur.com/sttvGOx.gif)
+![head.png](https://media.giphy.com/media/fnHxKEjgaW6Xe/giphy.gif)
