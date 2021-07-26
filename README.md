@@ -8,7 +8,7 @@
 <body>
             <div class="div">
                     <div class="main">
-                        <p>init5.</p>
+                        
                     </div>
             </div>
   
