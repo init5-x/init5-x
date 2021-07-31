@@ -1,4 +1,4 @@
-![head.png](https://media.giphy.com/media/twXer9ExHdTvwt2vpt/giphy.gif)
+![head.png](https://media.giphy.com/media/jTNgAZVmxyTGdpkIpu/giphy.gif)
 <head>
   
   <link href="style.css" rel="StyleSheet">
